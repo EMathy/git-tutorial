@@ -2,7 +2,7 @@
 class MoviePlotGenerator {
 	public static $adjectives = array('sadistic',
 									  'diminuitive',
-									  'fat',
+									  'large boned',
 									  'determined',
 									  'girsly');
 						
